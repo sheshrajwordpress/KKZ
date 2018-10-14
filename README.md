@@ -1,0 +1,2 @@
+# KKZ
+An informative blog
